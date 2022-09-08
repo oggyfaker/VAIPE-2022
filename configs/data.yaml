@@ -1,0 +1,14 @@
+# File Train Default By Challenge
+Path-Pill:       ../data/public_train/pill
+Path-Pill-Img:   ../data/public_train/pill/image
+Path-Pill-Label: ../data/public_train/pill/label
+
+Path-Pres:       ../data/public_train/prescription
+Path-Pres-Img:   ../data/public_train/prescription/image
+Path-Pres-Label: ../data/public_train/prescription/label
+
+Json-Pres-Img:    ../data/public_train/pill_pres_map.json
+
+## File Output From Code 
+Train-Detection-CSV:       ../data/public_train/train_detection.csv
+Train-Detection-Name-CSV:  ../data/public_train/train_detection_with_name.csv

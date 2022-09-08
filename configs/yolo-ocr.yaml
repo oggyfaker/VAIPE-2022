@@ -1,0 +1,8 @@
+# Output Yolov5 For OCR Detection 
+YoloOCR-Root:        ../data/Yolov5-OCR
+YoloOCR-Img-Train:   ../data/Yolov5-OCR/images/train
+YoloOCR-Label-Train: ../data/Yolov5-OCR/labels/train
+
+YoloOCR-Img-Val:     ../data/Yolov5-OCR/images/val
+YoloOCR-Label-Val:   ../data/Yolov5-OCR/labels/val
+

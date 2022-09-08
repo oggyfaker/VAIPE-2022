@@ -1,0 +1,8 @@
+# Output Path 
+Root-VietOCR:      ../data/VAIPE_VietOCR 
+Imgs-VietOCR:      ../data/VAIPE_VietOCR/imgs
+Train-Txt-VietOCR: ../data/VAIPE_VietOCR/train.txt
+Test-Txt-VietOCR:  ../data/VAIPE_VietOCR/test.txt
+
+# Saving Weights 
+VietOCR-Saving-Path: ../pretrained/VietOCR_Weigths

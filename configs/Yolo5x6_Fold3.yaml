@@ -1,0 +1,13 @@
+FOLD: 3
+SEED: 46
+NUM_FOLDS: 5
+
+YoloPill-Root: ../data/VAIPE-YOLOV5x6-Fold3
+
+YoloPill-Img-Train:   ../data/VAIPE-YOLOV5x6-Fold3/images/train
+YoloPill-Label-Train: ../data/VAIPE-YOLOV5x6-Fold3/labels/train
+YoloPill-Img-Val:     ../data/VAIPE-YOLOV5x6-Fold3/images/val
+YoloPill-Label-Val:   ../data/VAIPE-YOLOV5x6-Fold3/labels/val
+YoloPill-Label-Tmp:   ../data/VAIPE-YOLOV5x6-Fold3/All_Labels # Folder for use contain all label of dataset then use for split dataset 
+
+YoloPill-HyperParameter: Hyps-Low-Default-YOLOV5x6.yaml
